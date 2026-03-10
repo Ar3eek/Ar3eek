@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arek
+# 👋 Hi, I'm < Arek />
 
 💻 **Frontend Developer** passionate about building modern, fast and beautiful web applications.
 
