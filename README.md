@@ -71,9 +71,9 @@ I specialize in creating interactive user interfaces using modern JavaScript fra
 
 ## 🌍 Connect with me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: add-your-link
-- Portfolio: coming soon
+
+- LinkedIn: (https://www.linkedin.com/in/arkadiusz-korzeniowski-850a56309/)
+- Portfolio: https://arkadiuszkorzeniowski.pl/
 
 ---
 
