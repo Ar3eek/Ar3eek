@@ -18,7 +18,7 @@ I specialize in creating interactive user interfaces using modern JavaScript fra
 # 🚀 Frontend Developer
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,css,react,tailwind,sass,html,nodejs,vite,docker,cursor,webstorm,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,css,react,tailwind,sass,html,nodejs,vite,docker,cursor,webstorm,discord,figma,ai,netlify,npm,vscode&perline=7" />
 </p>
 
 ## ⚡ What I Focus On
