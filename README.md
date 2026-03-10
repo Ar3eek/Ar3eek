@@ -1,8 +1,15 @@
-# 👋 Hi, I'm < Arek />
+<h1 align="center">
+  👋 Hi, I'm &lt; Arek /&gt;
+</h1>
 
-💻 **Frontend Developer** passionate about building modern, fast and beautiful web applications.
+<p align="center">
+💻 Frontend Developer passionate about building modern, fast and beautiful web applications.
+</p>
 
-I specialize in creating interactive user interfaces using modern JavaScript frameworks and tools. I enjoy turning complex problems into simple, elegant solutions.
+<p align="center">
+I specialize in creating interactive user interfaces using modern JavaScript frameworks and tools.
+I enjoy turning complex problems into simple, elegant solutions.
+</p>
 
 ---
 ## 🌍 Connect with me
