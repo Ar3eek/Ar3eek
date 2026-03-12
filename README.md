@@ -14,11 +14,8 @@ I enjoy turning complex problems into simple, elegant solutions.
 ---
 ## 🌍 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arkadiusz%20Korzeniowski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-korzeniowski-850a56309/) [![Portfolio - My Website](https://img.shields.io/badge/Portfolio-My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arkadiuszkorzeniowski.pl/)
-
-<a href="https://arkadiuszkorzeniowski.pl/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arkadiusz%20Korzeniowski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-korzeniowski-850a56309/) 
+[![Portfolio - My Website](https://img.shields.io/badge/Portfolio-My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arkadiuszkorzeniowski.pl/)
 
 # 🚀 Frontend Developer
 
