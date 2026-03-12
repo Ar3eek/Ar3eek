@@ -15,7 +15,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 [![LinkedIn ](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-korzeniowski-850a56309/)
 [![Portfolio ](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arkadiuszkorzeniowski.pl/)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1481028003931750573)
 
 
 
