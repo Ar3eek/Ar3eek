@@ -13,9 +13,9 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 ## 🌍 Connect with me
 
-[![LinkedIn ](https://img.shields.io/badge/LinkedIn-Arkadiusz%20Korzeniowski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-korzeniowski-850a56309/)
-[![Portfolio ](https://img.shields.io/badge/Portfolio-My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arkadiuszkorzeniowski.pl/)
-[![Discord](https://img.shields.io)]()
+[![LinkedIn ](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-korzeniowski-850a56309/)
+[![Portfolio ](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arkadiuszkorzeniowski.pl/)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 
 
 
