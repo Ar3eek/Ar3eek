@@ -11,12 +11,13 @@ I specialize in creating interactive user interfaces using modern JavaScript fra
 I enjoy turning complex problems into simple, elegant solutions.
 </p>
 
----
 ## 🌍 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arkadiusz%20Korzeniowski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-korzeniowski-850a56309/) 
-[![Portfolio - My Website](https://img.shields.io/badge/Portfolio-My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arkadiuszkorzeniowski.pl/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arkadiusz%20Korzeniowski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-korzeniowski-850a56309/)
 
+![Discord](https://img.shields.io/badge/Discord-arek97__36286-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+[![My Website](https://img.shields.io/badge/My%20Website-arkadiuszkorzeniowski.pl-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arkadiuszkorzeniowski.pl/)
 # 🚀 Frontend Developer
 
 <p align="left">
