@@ -20,7 +20,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 # 🚀 Frontend Developer
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,css,react,tailwind,sass,html,nodejs,vite,docker,webstorm,discord,figma,ai,netlify,npm,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,css,react,tailwind,sass,html,nodejs,vite,docker,webstorm,discord,figma,ai,netlify,npm,mysql,vscode&perline=7" />
 </p>
 
 ## ⚡ What I Focus On
